@@ -1,0 +1,4 @@
+info:
+  host: localhost
+  port: 12378
+encoding: 'ascii'
